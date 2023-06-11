@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Museo 700';
+   font-display: swap;
+   src: url('Museo 700/font.ttf');
+}
+@font-face {
+   font-family: 'Museo 500';
+   font-display: swap;
+   src: url('Museo 500/font.ttf');
+}
+@font-face {
+   font-family: 'Museo 300';
+   font-display: swap;
+   src: url('Museo 300/font.ttf');
+}
